@@ -3,8 +3,11 @@
 The Project is a Python script that implements a voice-controlled assistant with various functionalities. Here's a description of the code:
 
 • The script starts by importing necessary libraries, such as speech_recognition, pyttsx3, requests, json, webbrowser, os, pyjokes, datetime, pywhatkit, wikipedia, cv2, Translator from googletrans, and playsound.
+
 • It initializes a text-to-speech engine using pyttsx3.init() and loads a cascade classifier for fire detection using cv2.CascadeClassifier.
+
 • The script enters an infinite loop that listens for user speech input using the microphone.
+
 • It uses the speech_recognition library to recognize the speech and convert it into text. If the recognition is successful, the recognized text is printed.
 • The recognized text is then processed using a series of if-elif-else statements to determine the user's command and execute the corresponding functionality.
 
