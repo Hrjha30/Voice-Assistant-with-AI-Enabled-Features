@@ -1,6 +1,6 @@
 # Voice-Assistant-with-AI-Enabled-Features
 
-The Project is a Python script that implements a voice-controlled assistant with various functionalities. Here's a description of the code:
+The Project is a Python script that implements a voice-controlled assistant with various functionalities. Here's a description of the code :
 
 • The script starts by importing necessary libraries, such as speech_recognition, pyttsx3, requests, json, webbrowser, os, pyjokes, datetime, pywhatkit, wikipedia, cv2, Translator from googletrans, and playsound.
 
